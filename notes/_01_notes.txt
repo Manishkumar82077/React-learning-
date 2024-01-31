@@ -3,5 +3,22 @@
     ->how the ui will look when ever the component is used
     ->jxs convert to java script 
     ->used Babelji.io tool 
-    ->
+
+#exporting the component 
+    function App(){
+    return 
+    }
+    export default App;
+
+    export default function App(){
+    return 
+    }
+     both combine in same jsx fie 
+
+Ōtḥēr̥ Iṁportant Point
+-> Naming must be capatilized
+-> you can imbade html kike syntex 
+-> css:in rect css can be directly imported into the component file ,aloow for modlar and componrnt specific styleing 
+->
+
 

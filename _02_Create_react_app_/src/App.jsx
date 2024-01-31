@@ -1,4 +1,11 @@
+import KgButton from "./kgButton";
+import kgButton from "./kgButton";
 function App(){
-  return <h1>HELLO WORLD THIS IS THE BEST REACT APP </h1>
+  return <div>
+    <h1>this is best resct corse </h1>
+    <button type="button">click me</button>
+    <KgButton></KgButton>
+
+  </div>
 }
 export default App;
