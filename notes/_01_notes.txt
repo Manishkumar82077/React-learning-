@@ -1,0 +1,7 @@
+#What is JSX
+    ->javaScript xml 
+    ->how the ui will look when ever the component is used
+    ->jxs convert to java script 
+    ->used Babelji.io tool 
+    ->
+
