@@ -12,7 +12,8 @@ function App(){
     <Random></Random>
     <Random></Random>
     <Random></Random>
-    <Random></Random><Random></Random><Random></Random><Random></Random>
+    <Random></Random><Random></Random><Random></Random><Random></Random>cd ..
+    
 
   </div>
 }
