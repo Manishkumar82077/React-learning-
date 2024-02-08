@@ -7,6 +7,7 @@ import AppName from "./components/AppName";
 import AddToDo from "./components/AddToDo";
 import ToDoItem01 from "./components/ToDoItemO1";
 import ToDoItem2 from "./components/ToDoItem2";
+import "./App.css";
 
 function App() {
   return (
