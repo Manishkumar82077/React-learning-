@@ -1,0 +1,31 @@
+/* App.css */
+body, html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.heading {
+ font-weight: 1000; /* Increase font weight for more boldness */
+  font-size: 50px;/* Adjust font size as desired */
+  color: #050505; /* Change color as desired */
+  text-align: center;
+}
+
+.list-group {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.list-group-item {
+  padding: 10px;
+  margin: 5px;
+  background-color: #f0f0f0; /* Change background color as desired */
+  border-radius: 5px;
+}
+
+ h1 {
+    
+}
