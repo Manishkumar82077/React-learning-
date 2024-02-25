@@ -1,15 +1,16 @@
-import "./App.css";
+import "./App.css"; // Import the CSS file
+
 import ClockContext from "./component/ClockContext";
 import ClockTime from "./component/ClockTime";
-import Clockheader from "./component/clockheader";
+import Clockheader from "./component/Clockheader";
 
 function App() {
   return (
-    <>
-      <Clockheader></Clockheader>
-      <ClockContext></ClockContext>
-      <ClockTime></ClockTime>
-    </>
+    <div className="main">
+      <Clockheader />
+      <ClockContext />
+      <ClockTime />
+    </div>
   );
 }
 
