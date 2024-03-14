@@ -11,8 +11,7 @@ functon FoodItem(){
             {item}
           </li>
         ))}
-      </ul>
-      
+      </ul> 
     </React.Fragment>
   );
 }

@@ -1,13 +1,14 @@
 import "./App.css";
+import ButtonContainer from "./component/ButtonContainer";
+import Display from "./component/Display";
 
 function App() {
   return (
-    <>
-      <div className="calculator"></div>
-      <input type="buttons-container " >
-        
-    </>
+    <div className={"container"}>
+      <Display>
+        <ButtonContainer></ButtonContainer>
+      </Display>
+    </div>
   );
 }
-
 export default App;
